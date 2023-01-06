@@ -1,0 +1,10 @@
+.vs
+
+Client/obj
+Client/bin
+
+Server/bin
+Server/obj
+
+Shared/bin
+Shared/obj
